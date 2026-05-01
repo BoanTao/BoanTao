@@ -1,36 +1,17 @@
 # Hi, I'm Boan Tao 👋
 
-I am a researcher and developer working on **Mixed Reality-based construction inspection and monitoring, BIM, Digital Twins, 2D/3D AI, and 3D Computer Vision** for construction, infrastructure, and smart buildings applications. My work focuses on developing intelligent systems that connect the physical and digital worlds through **Mixed Reality-based inspection**, **Scan-to-BIM**, **point cloud analysis**, **sensor-integrated digital twins**, and **deep learning**.
+I am a PhD graduate from the **University of Edinburgh** and a researcher/developer in **Mixed Reality, Digital Twins, BIM, 2D/3D AI, and Computer Vision** for construction, infrastructure, and smart building applications.
 
-## 🔬 Research Interests
+My work focuses on **Mixed Reality-based construction inspection**, **BIM-to-reality comparison**, **Scan-to-BIM**, **point cloud analysis**, and **sensor-integrated digital twins**, including Cesium-based campus-scale digital twin systems.
 
-- Mixed Reality-based construction inspection and progress monitoring
-- 2D/3D AI for construction and infrastructure analysis
-- BIM-to-reality comparison and digital twins
-- Cesium-based campus-scale digital twin systems
-- Sensor-integrated digital twins for room-level monitoring
-- 3D computer vision and point cloud processing
-- Deep learning for MEP element classification and segmentation
-- Scan-to-BIM, mesh analysis, and geometric inspection
-- AI-assisted infrastructure monitoring
-- Human-robot interaction and immersive interfaces for construction
+## 🔬 Interests
 
-## 🎓 Background
-
-I completed my PhD research on:
-
-> **Automatic Geometric Inspection of MEP Elements using Mixed Reality**
-
-My research explored how Mixed Reality devices such as **HoloLens 2** can support real-time construction inspection by integrating BIM models, RGB/depth sensing, mesh reconstruction, object detection, and point cloud deep learning.
-
-I also have an academic background in:
-
-- Electrical and Electronic Engineering
-- Electrical and Computer Engineering
-- Computer vision, robotics, and AI-based sensing systems
+- Mixed Reality-based inspection and monitoring
+- Digital twins for smart buildings and campuses
+- BIM-to-reality comparison and Scan-to-BIM
+- 2D/3D AI, point clouds, and mesh analysis
+- AI-assisted infrastructure and construction monitoring
 
 ## 📫 Contact
 
 - Email: boan.tao@ed.ac.uk
-
-
