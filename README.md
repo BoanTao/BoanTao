@@ -2,7 +2,7 @@
 
 I am a PhD graduate from the **University of Edinburgh** and a researcher/developer in **Mixed Reality, Digital Twins, BIM, 2D/3D AI, and Computer Vision** for construction, infrastructure, and smart building applications.
 
-My work focuses on **Mixed Reality-based construction inspection**, **BIM-to-reality comparison**, **Scan-to-BIM**, **point cloud analysis**, and **sensor-integrated digital twins**, including Cesium-based campus-scale digital twin systems.
+My work focuses on **Mixed Reality-based construction inspection**, **BIM-to-reality comparison**, **Scan-to-BIM**, **point cloud analysis**, and **sensor-integrated digital twins**.
 
 ## 🔬 Interests
 
